@@ -8,28 +8,8 @@
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
         "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
         "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\anim\\anim_alpha.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
@@ -38,10 +18,6 @@
     {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
@@ -88,10 +64,6 @@
         "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\anim\\design_snackbar_in.xml"
     },
@@ -136,36 +108,16 @@
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
-        "source": "D:\\Soft\\Github\\News\\app\\src\\main\\res\\anim\\anim_scale.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
         "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
         "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\anim\\anim_alpha.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -216,10 +168,6 @@
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
@@ -240,19 +188,7 @@
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
-        "source": "D:\\Soft\\Github\\News\\app\\src\\main\\res\\anim\\anim_alpha.xml"
-    },
-    {
-        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     }
 ]

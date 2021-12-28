@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Soft\Github\News\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Soft\Github\News\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Study\SoftProject\04d0697c\News\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Study\SoftProject\04d0697c\News\app\src\debug\jniLibs"/></dataSet></merger>
