@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "D:\\Soft\\Github\\News\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Soft\\Github\\News\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -14,6 +22,10 @@
     {
         "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft\\Github\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\app_icon.png",
+        "source": "D:\\Soft\\Github\\News\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
     },
     {
         "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",

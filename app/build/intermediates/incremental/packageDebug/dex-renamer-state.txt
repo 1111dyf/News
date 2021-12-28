@@ -1,4 +1,4 @@
-#Tue Dec 28 23:32:32 CST 2021
-base.0=D\:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Dec 29 01:20:25 CST 2021
+base.0=D\:\\Soft\\Github\\News\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=D\:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=D\:\\Soft\\Github\\News\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
