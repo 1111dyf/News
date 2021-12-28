@@ -1,0 +1,962 @@
+[
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_cache.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\clear_cache.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_2.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\news_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_2.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\news_2.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\main.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_down_refresh_arrow.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\pull_down_refresh_arrow.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\notice.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\read.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\read.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collection.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\collection.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_4.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\news_4.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_background.jpg",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\mine_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_selected.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\main_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_selected.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\favorite_selected.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\notice.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\read.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\read.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_selected.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\setting_selected.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\weibo.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_app.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\exit_app.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\set_fengmian.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\set_fengmian.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\main.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notice.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\notice.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_2.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\news_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_background.jpg",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\mine_background.jpg"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_3.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\news_3.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_selected.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\setting_selected.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\read.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\read.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shangchuan.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\shangchuan.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_selected.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\main_selected.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_selected.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\main_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_4.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\news_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_app.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\exit_app.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_selected.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\setting_selected.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_3.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\news_3.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_cache.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\clear_cache.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fabu.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\fabu.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.jpg",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_selected.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\mine_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_selected.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\mine_selected.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_1.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\news_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fabu.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\fabu.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_3.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\news_3.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collection.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\collection.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collection.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\collection.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_down_refresh_arrow.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\pull_down_refresh_arrow.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\weibo.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fabu.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\fabu.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_selected.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\favorite_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\version.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\version.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorite_selected.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\favorite_selected.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_down_refresh_arrow.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\pull_down_refresh_arrow.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\version.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\version.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit_app.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\exit_app.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renzheng.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\renzheng.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_4.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\news_4.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_selected.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\mine_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\version.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\version.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renzheng.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\renzheng.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shangchuan.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\shangchuan.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\f1edaff130a166b206fc8b81335ce03d7ab4b10a\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\renzheng.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\renzheng.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_1.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\news_1.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\set_fengmian.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\set_fengmian.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\f623cc0c4b0db2d55d91653c334649631140ba7d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_background.jpg",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\mine_background.jpg"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qq.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weibo.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\weibo.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\set_fengmian.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\set_fengmian.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\25395\\.android\\build-cache\\a1082d63f8d0560971692a50e40b708adc3188e6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_1.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\news_1.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\register.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cjz\\Desktop\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_cache.png",
+        "source": "C:\\Users\\Cjz\\Desktop\\News\\app\\src\\main\\res\\drawable\\clear_cache.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shangchuan.png",
+        "source": "E:\\Android_workspace\\News\\app\\src\\main\\res\\drawable\\shangchuan.png"
+    },
+    {
+        "merged": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "D:\\Study\\SoftProject\\04d0697c\\News\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Android_workspace\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Cjz\\.android\\build-cache\\ff57b417ccea8c6d98300b02b8b705feaa779202\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]
